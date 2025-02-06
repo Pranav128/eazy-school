@@ -1,4 +1,7 @@
 # Eazy School Management System
+
+Live experience: [Check here](https://eazyschool-nh9f.onrender.com).
+
 ### Light Mode
 ![Light Mode](src/main/resources/static/assets/screenshots/home.png)
 ### Dark Mode
